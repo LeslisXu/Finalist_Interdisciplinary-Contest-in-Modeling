@@ -1,7 +1,13 @@
 # Finalist Award By Team 2314669(XIDIAN UNIVERSITY) 
+## 概况
+本论文获得了2023年美国大学生数学建模竞赛的**特等奖提名**。
 
-The Sustainable Development Goals (SDGs) represent a universal set of goals that are interconnected in a complex network. Exploring the relationship between goals and determining development priorities is essential for advancing the agenda of the United Nations. In this paper, we develop
-models to analyze the interlinkages between indicators of the goals, propose Multi-Strategy Evaluation Model(MSE) to assess the priorities of goals, and reveal the dynamic changes in network
+选题为D题目，运用的方法有：SNA、动态规划等。
+
+作者单位：西安电子科技大学(XIDIAN UNIVERSITY)
+## Summary
+The Sustainable Development Goals (SDGs) represent a universal set of goals that are interconnected in a complex network. Exploring the relationship between goals and determining development priorities is essential for advancing the agenda of the United Nations. In this paper, we develop
+models to analyze the interlinkages between indicators of the goals, propose Multi-Strategy Evaluation Model(MSE) to assess the priorities of goals, and reveal the dynamic changes in network
 structure.
 
 In TASK 1: First, we employ the IAEG-SDG data in China and select 134 representative indicators. Then, the strength of interlinkage is computed using Granger notion of causality to
@@ -20,4 +26,4 @@ In TASK 4 & 5: In order to measure the impact of international events on our net
 region and its development strategies. Then, we adjust the consistency index of the goals that are impacted by COVID-19 and summarize that Good Health and Well-being is prioritized. Finally,
 based on the three strategies established above, we extend the established model to other fields from the perspectives of network centrality, influence index and consistency index.
 
-Keywords: MSE, Granger Notion of Causality, Network Centrality, Second-Order Network, Community Detection, Consistency Index.
+Keywords: MSE, Granger Notion of Causality, Network Centrality, Second-Order Network, Community Detection, Consistency Index.
