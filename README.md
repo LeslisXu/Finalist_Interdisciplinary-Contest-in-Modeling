@@ -4,7 +4,7 @@
 
 选题为D题目，运用的方法有：SNA、动态规划等。
 
-作者单位：西安电子科技大学(XIDIAN UNIVERSITY)
+作者单位：**西安电子科技大学(XIDIAN UNIVERSITY)**
 ## Summary
 The Sustainable Development Goals (SDGs) represent a universal set of goals that are interconnected in a complex network. Exploring the relationship between goals and determining development priorities is essential for advancing the agenda of the United Nations. In this paper, we develop
 models to analyze the interlinkages between indicators of the goals, propose Multi-Strategy Evaluation Model(MSE) to assess the priorities of goals, and reveal the dynamic changes in network
